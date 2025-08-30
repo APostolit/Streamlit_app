@@ -1,0 +1,3 @@
+streamlit==1.49.0
+streamlit-product-card==1.0.0
+
